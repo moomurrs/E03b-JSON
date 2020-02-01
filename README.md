@@ -12,6 +12,4 @@ This exercise will give you the opportunity to edit an existing JSON file (in th
  - In DEAD7, change the description to "You have reached a dead end"
  - In CP change the name to "Just a room (not at all suspicious)"
  
-If you need to check to see if you have produced a valid JSON file, you can validate it at https://jsonformatter.org/json-editor.
-
-Edit the LICENSE and README.md and submit a URL to your repository on Canvas.
+Changes made for JSON file
